@@ -326,6 +326,20 @@ Ethics Bowl
 Every Black Obinrin Needs Ife
 FROUG
 Faculty & Staff Wellness Events
+Faculty/Staff-Only Group
+Faculty/Staff-Only Group - Academic / Honorary
+Faculty/Staff-Only Group - Academic / Honorary, Staff-Only Social Group
+Faculty/Staff-Only Group - Community Service
+Faculty/Staff-Only Group - Community Service, Health and Wellness, Sexual and Gender Diversity
+Faculty/Staff-Only Group - Community Service, Social
+Faculty/Staff-Only Group - Professional
+Faculty/Staff-Only Group - Professional, Social, Staff-Only Social Group, Staff-Only Specialty/Professional Group
+Faculty/Staff-Only Group - Professional, Staff-Only Social Group
+Faculty/Staff-Only Group - Professional, Staff-Only Specialty/Professional Group
+Faculty/Staff-Only Group - Social
+Faculty/Staff-Only Group - Staff-Only Social Group
+Faculty/Staff-Only Group - Staff-Only Social Group, Staff-Only Specialty/Professional Group
+Faculty/Staff-Only Group - Staff-Only Specialty/Professional Group
 Family Student Housing
 Family Vacation Center
 Fashion Club
@@ -411,6 +425,21 @@ Graduate Student Association - Education
 Graduate Student Ministry
 Graduate Student Parents
 Graduate Student Resource Center
+Graduate Student-Only Group - Academic / Honorary
+Graduate Student-Only Group - Academic / Honorary, Community Service, Cultural
+Graduate Student-Only Group - Academic / Honorary, Community Service, Cultural, Professional, Social
+Graduate Student-Only Group - Academic / Honorary, Community Service, Professional
+Graduate Student-Only Group - Academic / Honorary, Professional
+Graduate Student-Only Group - Academic / Honorary, Professional, Social
+Graduate Student-Only Group - Academic / Honorary, Professional, Student Government
+Graduate Student-Only Group - Community Service
+Graduate Student-Only Group - Community Service, Cultural, Professional, Social
+Graduate Student-Only Group - Cultural
+Graduate Student-Only Group - Professional, Political
+Graduate Student-Only Group - Professional, Social, Environment and Sustainability
+Graduate Student-Only Group - Religious, Social
+Graduate Student-Only Group - Social
+Graduate Student-Only Group - Social, Environment and Sustainability
 Graduate Union of Molecular Biology lnvestigators
 Gravity Water Club
 Greek Intervarsity
@@ -656,12 +685,156 @@ REALITY
 ROTC Surfrider Battalion
 Rapid Rehousing
 Ravaani
-Raíces de Mi Tierra
+Raices de Mi Tierra
 Real Life
 Rec Tennis
 Reel Loud Film and Arts Festival
 Reformed University Fellowship
 Regents Scholars Association
+Registered Campus Organization
+Registered Campus Organization - Academic / Honorary
+Registered Campus Organization - Academic / Honorary, Community Service
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Greek Letter Fraternities and Sororities
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, K-12 Outreach
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Professional, Religious, Social, Political
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Social
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Social, Health and Wellness, Environment and Sustainability
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Social, Health and Wellness, International
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Social, K-12 Outreach
+Registered Campus Organization - Academic / Honorary, Community Service, Cultural, Social, K-12 Outreach, International
+Registered Campus Organization - Academic / Honorary, Community Service, Health and Wellness
+Registered Campus Organization - Academic / Honorary, Community Service, K-12 Outreach
+Registered Campus Organization - Academic / Honorary, Community Service, Professional
+Registered Campus Organization - Academic / Honorary, Community Service, Professional, Professional Fraternity Council (PFC)
+Registered Campus Organization - Academic / Honorary, Community Service, Professional, Social
+Registered Campus Organization - Academic / Honorary, Community Service, Professional, Social, K-12 Outreach
+Registered Campus Organization - Academic / Honorary, Community Service, Social
+Registered Campus Organization - Academic / Honorary, Community Service, Social, Health and Wellness, International
+Registered Campus Organization - Academic / Honorary, Community Service, Student Government
+Registered Campus Organization - Academic / Honorary, Cultural
+Registered Campus Organization - Academic / Honorary, Cultural, Social
+Registered Campus Organization - Academic / Honorary, Greek Letter Fraternities and Sororities
+Registered Campus Organization - Academic / Honorary, Health and Wellness
+Registered Campus Organization - Academic / Honorary, Political
+Registered Campus Organization - Academic / Honorary, Professional
+Registered Campus Organization - Academic / Honorary, Professional, Environment and Sustainability
+Registered Campus Organization - Academic / Honorary, Professional, Political, International
+Registered Campus Organization - Academic / Honorary, Professional, Social
+Registered Campus Organization - Academic / Honorary, Professional, Sports / Recreation
+Registered Campus Organization - Academic / Honorary, Professional, Sports / Recreation, Environment and Sustainability
+Registered Campus Organization - Academic / Honorary, Professional, Sports / Recreation, International
+Registered Campus Organization - Academic / Honorary, Social
+Registered Campus Organization - Academic / Honorary, Social, Environment and Sustainability
+Registered Campus Organization - Academic / Honorary, Social, Health and Wellness
+Registered Campus Organization - Academic / Honorary, Social, Sexual and Gender Diversity
+Registered Campus Organization - Academic / Honorary, Social, Sports / Recreation
+Registered Campus Organization - Academic / Honorary, Sports / Recreation
+Registered Campus Organization - Academic / Honorary, Visual and Performing Arts, Community Service, Social
+Registered Campus Organization - Academic / Honorary, Visual and Performing Arts, Cultural
+Registered Campus Organization - Academic / Honorary, Visual and Performing Arts, Political
+Registered Campus Organization - Academic / Honorary, Visual and Performing Arts, Sports / Recreation, Health and Wellness
+Registered Campus Organization - Community Service
+Registered Campus Organization - Community Service, Cultural
+Registered Campus Organization - Community Service, Cultural, Environment and Sustainability
+Registered Campus Organization - Community Service, Cultural, Professional, Health and Wellness
+Registered Campus Organization - Community Service, Cultural, Religious, Social
+Registered Campus Organization - Community Service, Cultural, Social
+Registered Campus Organization - Community Service, Cultural, Social, Health and Wellness, Sexual and Gender Diversity, Environment and Sustainability
+Registered Campus Organization - Community Service, Environment and Sustainability
+Registered Campus Organization - Community Service, Health and Wellness
+Registered Campus Organization - Community Service, Health and Wellness, Environment and Sustainability
+Registered Campus Organization - Community Service, Health and Wellness, K-12 Outreach
+Registered Campus Organization - Community Service, K-12 Outreach
+Registered Campus Organization - Community Service, K-12 Outreach, Environment and Sustainability
+Registered Campus Organization - Community Service, Political, International
+Registered Campus Organization - Community Service, Professional
+Registered Campus Organization - Community Service, Professional, Environment and Sustainability, International
+Registered Campus Organization - Community Service, Professional, Health and Wellness
+Registered Campus Organization - Community Service, Professional, Social
+Registered Campus Organization - Community Service, Religious
+Registered Campus Organization - Community Service, Religious, International
+Registered Campus Organization - Community Service, Social
+Registered Campus Organization - Community Service, Social, Environment and Sustainability
+Registered Campus Organization - Community Service, Social, Health and Wellness
+Registered Campus Organization - Community Service, Social, Health and Wellness, Sexual and Gender Diversity, K-12 Outreach
+Registered Campus Organization - Community Service, Social, International
+Registered Campus Organization - Community Service, Social, Political, Health and Wellness, K-12 Outreach
+Registered Campus Organization - Community Service, Social, Sports / Recreation
+Registered Campus Organization - Community Service, Social, Sports / Recreation, Health and Wellness
+Registered Campus Organization - Community Service, Social, Sports / Recreation, Health and Wellness, Sexual and Gender Diversity, Environment and Sustainability
+Registered Campus Organization - Cultural
+Registered Campus Organization - Cultural, Health and Wellness
+Registered Campus Organization - Cultural, International
+Registered Campus Organization - Cultural, K-12 Outreach
+Registered Campus Organization - Cultural, Political
+Registered Campus Organization - Cultural, Professional, Social
+Registered Campus Organization - Cultural, Professional, Social, Health and Wellness, Sexual and Gender Diversity
+Registered Campus Organization - Cultural, Religious
+Registered Campus Organization - Cultural, Religious, Political
+Registered Campus Organization - Cultural, Religious, Social
+Registered Campus Organization - Cultural, Religious, Social, International
+Registered Campus Organization - Cultural, Religious, Social, Sexual and Gender Diversity
+Registered Campus Organization - Cultural, Social
+Registered Campus Organization - Cultural, Social, Health and Wellness
+Registered Campus Organization - Cultural, Social, International
+Registered Campus Organization - Cultural, Social, Political
+Registered Campus Organization - Cultural, Social, Sports / Recreation, International
+Registered Campus Organization - Environment and Sustainability
+Registered Campus Organization - Greek Letter Fraternities and Sororities
+Registered Campus Organization - Greek Letter Fraternities and Sororities, Environment and Sustainability
+Registered Campus Organization - Greek Letter Fraternities and Sororities, Religious
+Registered Campus Organization - Health and Wellness
+Registered Campus Organization - Health and Wellness, Environment and Sustainability
+Registered Campus Organization - Health and Wellness, K-12 Outreach
+Registered Campus Organization - K-12 Outreach
+Registered Campus Organization - Political
+Registered Campus Organization - Professional
+Registered Campus Organization - Professional Fraternity Council (PFC)
+Registered Campus Organization - Professional, Political
+Registered Campus Organization - Professional, Professional Fraternity Council (PFC)
+Registered Campus Organization - Professional, Social
+Registered Campus Organization - Professional, Social, International
+Registered Campus Organization - Professional, Social, Political
+Registered Campus Organization - Professional, Social, Sexual and Gender Diversity
+Registered Campus Organization - Professional, Sports / Recreation
+Registered Campus Organization - Religious
+Registered Campus Organization - Religious, Social
+Registered Campus Organization - Religious, Sports / Recreation
+Registered Campus Organization - Sexual and Gender Diversity
+Registered Campus Organization - Social
+Registered Campus Organization - Social, Environment and Sustainability
+Registered Campus Organization - Social, Health and Wellness
+Registered Campus Organization - Social, K-12 Outreach
+Registered Campus Organization - Social, Political
+Registered Campus Organization - Social, Political, K-12 Outreach, Environment and Sustainability
+Registered Campus Organization - Social, Political, Sexual and Gender Diversity
+Registered Campus Organization - Social, Sexual and Gender Diversity
+Registered Campus Organization - Social, Sports / Recreation
+Registered Campus Organization - Social, Sports / Recreation, Environment and Sustainability
+Registered Campus Organization - Social, Sports / Recreation, Health and Wellness
+Registered Campus Organization - Social, Sports / Recreation, Sexual and Gender Diversity
+Registered Campus Organization - Sports / Recreation
+Registered Campus Organization - Sports / Recreation, Health and Wellness
+Registered Campus Organization - Sports / Recreation, Health and Wellness, International
+Registered Campus Organization - Student Government
+Registered Campus Organization - Visual and Performing Arts
+Registered Campus Organization - Visual and Performing Arts, Community Service, Cultural, Greek Letter Fraternities and Sororities, Religious, Social
+Registered Campus Organization - Visual and Performing Arts, Community Service, Cultural, Social
+Registered Campus Organization - Visual and Performing Arts, Community Service, Cultural, Social, Health and Wellness
+Registered Campus Organization - Visual and Performing Arts, Community Service, Cultural, Social, Sexual and Gender Diversity, Environment and Sustainability
+Registered Campus Organization - Visual and Performing Arts, Community Service, Cultural, Social, Sports / Recreation, Sexual and Gender Diversity, International
+Registered Campus Organization - Visual and Performing Arts, Community Service, Health and Wellness, K-12 Outreach
+Registered Campus Organization - Visual and Performing Arts, Community Service, K-12 Outreach
+Registered Campus Organization - Visual and Performing Arts, Cultural
+Registered Campus Organization - Visual and Performing Arts, Cultural, Professional, International
+Registered Campus Organization - Visual and Performing Arts, Cultural, Professional, Social
+Registered Campus Organization - Visual and Performing Arts, Cultural, Social
+Registered Campus Organization - Visual and Performing Arts, Cultural, Sports / Recreation
+Registered Campus Organization - Visual and Performing Arts, Professional, Social
+Registered Campus Organization - Visual and Performing Arts, Social
+Registered Campus Organization - Visual and Performing Arts, Social, Health and Wellness
+Registered Campus Organization - Visual and Performing Arts, Sports / Recreation
 Research Mentorship Program
 Research-Prep Mentorship Program
 Residential & Community Living
@@ -730,6 +903,13 @@ Ski and Snowboarding
 Slackline Club
 Smash Bros. Club @ 
 Soccer by the Sea
+Social Fraternity/Sorority
+Social Fraternity/Sorority - Academic / Honorary, Community Service, Cultural
+Social Fraternity/Sorority - Cultural
+Social Fraternity/Sorority - Cultural, Greek Letter Fraternities and Sororities
+Social Fraternity/Sorority - Cultural, Greek Letter Fraternities and Sororities, Social
+Social Fraternity/Sorority - Greek Letter Fraternities and Sororities
+Social Fraternity/Sorority - Greek Letter Fraternities and Sororities, Social
 Sociedad Eterna
 Society for Advancement of Chicanos/Hispanics and Native Americans in Science Graduate Chapter
 Society of Asian Scientists and Engineers
@@ -888,6 +1068,11 @@ United Sorority & Fraternity Council
 United Student Labor Action Coalition
 Unity in Diversity Graduate Network
 University Center
+University Committee
+University Committee - Academic / Honorary, Visual and Performing Arts, Community Service, Cultural, Greek Letter Fraternities and Sororities, Professional, Religious, Social, Sports / Recreation, Student Government, Political, Health and Wellness, Sexual and Gender Diversity, K-12 Outreach, Environment and Sustainability, Professional Fraternity Council (PFC)
+University Committee - Academic / Honorary, Visual and Performing Arts, Community Service, Cultural, Greek Letter Fraternities and Sororities, Professional, Religious, Sports / Recreation, Student Government, Political, Health and Wellness, Sexual and Gender Diversity, K-12 Outreach, Environment and Sustainability, Professional Fraternity Council (PFC)
+University Committee - K-12 Outreach
+University Committee - Staff-Only Specialty/Professional Group
 Untitled Dance Company
 VR/AR Club
 Veterans & Military Services
